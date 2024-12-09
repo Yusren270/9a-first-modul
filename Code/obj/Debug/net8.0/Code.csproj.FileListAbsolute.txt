@@ -1,0 +1,14 @@
+C:\Users\1409-6\Desktop\Юсрен 9а\Code\bin\Debug\net8.0\Code.exe
+C:\Users\1409-6\Desktop\Юсрен 9а\Code\bin\Debug\net8.0\Code.deps.json
+C:\Users\1409-6\Desktop\Юсрен 9а\Code\bin\Debug\net8.0\Code.runtimeconfig.json
+C:\Users\1409-6\Desktop\Юсрен 9а\Code\bin\Debug\net8.0\Code.dll
+C:\Users\1409-6\Desktop\Юсрен 9а\Code\bin\Debug\net8.0\Code.pdb
+C:\Users\1409-6\Desktop\Юсрен 9а\Code\obj\Debug\net8.0\Code.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1409-6\Desktop\Юсрен 9а\Code\obj\Debug\net8.0\Code.AssemblyInfoInputs.cache
+C:\Users\1409-6\Desktop\Юсрен 9а\Code\obj\Debug\net8.0\Code.AssemblyInfo.cs
+C:\Users\1409-6\Desktop\Юсрен 9а\Code\obj\Debug\net8.0\Code.csproj.CoreCompileInputs.cache
+C:\Users\1409-6\Desktop\Юсрен 9а\Code\obj\Debug\net8.0\Code.dll
+C:\Users\1409-6\Desktop\Юсрен 9а\Code\obj\Debug\net8.0\refint\Code.dll
+C:\Users\1409-6\Desktop\Юсрен 9а\Code\obj\Debug\net8.0\Code.pdb
+C:\Users\1409-6\Desktop\Юсрен 9а\Code\obj\Debug\net8.0\Code.genruntimeconfig.cache
+C:\Users\1409-6\Desktop\Юсрен 9а\Code\obj\Debug\net8.0\ref\Code.dll

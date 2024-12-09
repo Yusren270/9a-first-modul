@@ -1,0 +1,14 @@
+C:\Users\1409-6\Desktop\Юсрен 9а\cikli\bin\Debug\net8.0\cikli.exe
+C:\Users\1409-6\Desktop\Юсрен 9а\cikli\bin\Debug\net8.0\cikli.deps.json
+C:\Users\1409-6\Desktop\Юсрен 9а\cikli\bin\Debug\net8.0\cikli.runtimeconfig.json
+C:\Users\1409-6\Desktop\Юсрен 9а\cikli\bin\Debug\net8.0\cikli.dll
+C:\Users\1409-6\Desktop\Юсрен 9а\cikli\bin\Debug\net8.0\cikli.pdb
+C:\Users\1409-6\Desktop\Юсрен 9а\cikli\obj\Debug\net8.0\cikli.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1409-6\Desktop\Юсрен 9а\cikli\obj\Debug\net8.0\cikli.AssemblyInfoInputs.cache
+C:\Users\1409-6\Desktop\Юсрен 9а\cikli\obj\Debug\net8.0\cikli.AssemblyInfo.cs
+C:\Users\1409-6\Desktop\Юсрен 9а\cikli\obj\Debug\net8.0\cikli.csproj.CoreCompileInputs.cache
+C:\Users\1409-6\Desktop\Юсрен 9а\cikli\obj\Debug\net8.0\cikli.dll
+C:\Users\1409-6\Desktop\Юсрен 9а\cikli\obj\Debug\net8.0\refint\cikli.dll
+C:\Users\1409-6\Desktop\Юсрен 9а\cikli\obj\Debug\net8.0\cikli.pdb
+C:\Users\1409-6\Desktop\Юсрен 9а\cikli\obj\Debug\net8.0\cikli.genruntimeconfig.cache
+C:\Users\1409-6\Desktop\Юсрен 9а\cikli\obj\Debug\net8.0\ref\cikli.dll
