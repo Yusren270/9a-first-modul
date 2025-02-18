@@ -1,0 +1,7 @@
+C:\Users\1409-6\Desktop\Юсрен 9а\lesni zadachi 2.0\lesni zadachi 2.0\bin\Debug\lesni zadachi 2.0.exe.config
+C:\Users\1409-6\Desktop\Юсрен 9а\lesni zadachi 2.0\lesni zadachi 2.0\bin\Debug\lesni zadachi 2.0.exe
+C:\Users\1409-6\Desktop\Юсрен 9а\lesni zadachi 2.0\lesni zadachi 2.0\bin\Debug\lesni zadachi 2.0.pdb
+C:\Users\1409-6\Desktop\Юсрен 9а\lesni zadachi 2.0\lesni zadachi 2.0\obj\Debug\lesni zadachi 2.0.csproj.AssemblyReference.cache
+C:\Users\1409-6\Desktop\Юсрен 9а\lesni zadachi 2.0\lesni zadachi 2.0\obj\Debug\lesni zadachi 2.0.csproj.CoreCompileInputs.cache
+C:\Users\1409-6\Desktop\Юсрен 9а\lesni zadachi 2.0\lesni zadachi 2.0\obj\Debug\lesni zadachi 2.0.exe
+C:\Users\1409-6\Desktop\Юсрен 9а\lesni zadachi 2.0\lesni zadachi 2.0\obj\Debug\lesni zadachi 2.0.pdb

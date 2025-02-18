@@ -1,0 +1,7 @@
+C:\Users\1409-6\Desktop\Юсрен 9а\lesni zadachi 2.0\dopulnenie\bin\Debug\dopulnenie.exe.config
+C:\Users\1409-6\Desktop\Юсрен 9а\lesni zadachi 2.0\dopulnenie\bin\Debug\dopulnenie.exe
+C:\Users\1409-6\Desktop\Юсрен 9а\lesni zadachi 2.0\dopulnenie\bin\Debug\dopulnenie.pdb
+C:\Users\1409-6\Desktop\Юсрен 9а\lesni zadachi 2.0\dopulnenie\obj\Debug\dopulnenie.csproj.AssemblyReference.cache
+C:\Users\1409-6\Desktop\Юсрен 9а\lesni zadachi 2.0\dopulnenie\obj\Debug\dopulnenie.csproj.CoreCompileInputs.cache
+C:\Users\1409-6\Desktop\Юсрен 9а\lesni zadachi 2.0\dopulnenie\obj\Debug\dopulnenie.exe
+C:\Users\1409-6\Desktop\Юсрен 9а\lesni zadachi 2.0\dopulnenie\obj\Debug\dopulnenie.pdb

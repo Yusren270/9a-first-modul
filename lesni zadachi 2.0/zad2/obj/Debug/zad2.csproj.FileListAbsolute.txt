@@ -1,0 +1,7 @@
+C:\Users\1409-6\Desktop\Юсрен 9а\lesni zadachi 2.0\zad2\bin\Debug\zad2.exe.config
+C:\Users\1409-6\Desktop\Юсрен 9а\lesni zadachi 2.0\zad2\bin\Debug\zad2.exe
+C:\Users\1409-6\Desktop\Юсрен 9а\lesni zadachi 2.0\zad2\bin\Debug\zad2.pdb
+C:\Users\1409-6\Desktop\Юсрен 9а\lesni zadachi 2.0\zad2\obj\Debug\zad2.csproj.AssemblyReference.cache
+C:\Users\1409-6\Desktop\Юсрен 9а\lesni zadachi 2.0\zad2\obj\Debug\zad2.csproj.CoreCompileInputs.cache
+C:\Users\1409-6\Desktop\Юсрен 9а\lesni zadachi 2.0\zad2\obj\Debug\zad2.exe
+C:\Users\1409-6\Desktop\Юсрен 9а\lesni zadachi 2.0\zad2\obj\Debug\zad2.pdb

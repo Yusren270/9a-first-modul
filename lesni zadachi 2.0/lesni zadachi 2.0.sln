@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35506.116 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lesni zadachi 2.0", "lesni zadachi 2.0\lesni zadachi 2.0.csproj", "{AF293554-C65C-4A18-86EB-F9A103FF942F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "zad2", "zad2\zad2.csproj", "{6DFAB550-12E2-4504-8322-BED599217672}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dopulnenie", "dopulnenie\dopulnenie.csproj", "{C3F47FC2-5D4F-40D3-9DCA-8CBFC3853A59}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AF293554-C65C-4A18-86EB-F9A103FF942F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF293554-C65C-4A18-86EB-F9A103FF942F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF293554-C65C-4A18-86EB-F9A103FF942F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF293554-C65C-4A18-86EB-F9A103FF942F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6DFAB550-12E2-4504-8322-BED599217672}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DFAB550-12E2-4504-8322-BED599217672}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DFAB550-12E2-4504-8322-BED599217672}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DFAB550-12E2-4504-8322-BED599217672}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C3F47FC2-5D4F-40D3-9DCA-8CBFC3853A59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3F47FC2-5D4F-40D3-9DCA-8CBFC3853A59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3F47FC2-5D4F-40D3-9DCA-8CBFC3853A59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3F47FC2-5D4F-40D3-9DCA-8CBFC3853A59}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
